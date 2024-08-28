@@ -40,3 +40,13 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> 
 </p>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MateuszGrabarczyk&theme=dark)](https://git.io/streak-stats)
+
+[![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszGrabarczyk&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszGrabarczyk&theme=dark&langs_count=5&hide=c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MateuszGrabarczyk&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
